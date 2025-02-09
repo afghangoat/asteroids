@@ -1,0 +1,11 @@
+5200,0,alma
+4800,0,ferenc
+4200,0,szabojani
+3300,0,bela
+3300,2,wwwaaa
+2500,2,test
+2200,0,jozsef
+1300,0,karcsi
+1300,0,tercsi
+900,0,kolbasz
+900,0,david
