@@ -1,5 +1,7 @@
 # C Asteroids
 
+![Spoiler image](https://afghangoat.hu/img/img50.png)
+
 An asteroids game reimplementation in C using the SDL2 library.
 
 The full documentation can be found in the "fejl_dokumentáció.pdf" file.
